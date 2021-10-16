@@ -19,7 +19,7 @@ body{
 }
 img{
     margin-top: 20px;
-    height: 250px;
+    height: 550px;
     border-radius: 12px;
     box-shadow: 5px 5px 5px rgba(3, 3, 3, 0.493);
 }
@@ -30,6 +30,7 @@ button{
     border: none;
     border-radius: 12px;
     cursor: pointer;
+    padding:10px 20px;
 }
 button:hover{
     transition: 0.3s ease;
